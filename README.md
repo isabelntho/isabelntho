@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I'm Isabel Thomas
+
+...
+
+I'm currently studying on the Masters in Environmental Sciences at the University of Geneva. I'm passionate about all things geospatial.
+
+![Twitter Follow](https://img.shields.io/twitter/follow/isabelnthomas?label=Follow%20me%20on%20Twitter&style=social)
+
+...
+
+toolbox:
+<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python logo" width="50" height="50">
 
 <!--
 **isabentho/isabentho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
