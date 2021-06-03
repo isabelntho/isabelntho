@@ -9,6 +9,7 @@ I'm currently studying on the Masters in Environmental Sciences at the Universit
 ...
 
 toolbox:
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python logo" width="50" height="50">
 
 <!--
