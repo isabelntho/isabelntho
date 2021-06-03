@@ -8,9 +8,9 @@ I'm currently studying on the Masters in Environmental Sciences at the Universit
 
 ...
 
-toolbox:
+Toolbox:
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python logo" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/QGIS_logo_minimal.svg" alt="qgis logo" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/ArcGIS_logo_%28cropped%29.png" alt="arcgis logo" width="50" height="50">
 
 <!--
 **isabentho/isabentho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
