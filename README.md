@@ -2,7 +2,7 @@
 
 ...
 
-I'm currently studying on the Masters in Environmental Sciences at the University of Geneva. I'm passionate about all things geospatial.
+I'm currently studying on the Masters in Environmental Sciences at the University of Geneva.
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/isabelnthomas?label=Follow%20me%20on%20Twitter&style=social)
 
