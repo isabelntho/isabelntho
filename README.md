@@ -6,8 +6,6 @@ I'm currently a PhD student at ETH Zurich in the Chair of Planning of Landscape 
 
 You can check out my online CV here: https://isabelntho.github.io/
 
-![Twitter Follow](https://img.shields.io/twitter/follow/isabelnthomas?label=Follow%20me%20on%20Twitter&style=social)
-
 ...
 
 Toolbox:
