@@ -1,16 +1,8 @@
 ### Hi there 👋 I'm Isabel Thomas
 
-...
-
-I'm currently a PhD student at ETH Zurich in the Chair of Planning of Landscape and Urban Systems (PLUS).
+I'm currently a PhD student at ETH Zurich in the Chair of Planning of Landscape and Urban Systems (PLUS, https://plus.ethz.ch/).
 
 You can check out my online CV here: https://isabelntho.github.io/
-
-...
-
-Toolbox:
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python logo" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/QGIS_logo_minimal.svg" alt="qgis logo" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/ArcGIS_logo_%28cropped%29.png" alt="arcgis logo" width="50" height="50">
 
 <!--
 **isabentho/isabentho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
