@@ -2,7 +2,7 @@
 
 ...
 
-I'm currently studying on the Masters in Environmental Sciences at the University of Geneva.
+I'm currently a PhD student at ETH Zurich in the Chair of Planning of Landscape and Urban Systems (PLUS).
 
 You can check out my online CV here: https://isabelntho.github.io/
 
